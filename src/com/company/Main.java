@@ -3,6 +3,10 @@ package com.company;
 import java.util.ArrayList;
 import java.util.Random;
 
+// https://de.wikipedia.org/wiki/Montante_Hollandaise
+// https://de.wikipedia.org/wiki/Progression_d%E2%80%99Alembert
+// https://de.wikipedia.org/wiki/Montante_Am%C3%A9ricaine
+
 public class Main {
     public static void main(String[] args) {
 	    new Main();
